@@ -13,8 +13,8 @@ This is a simple, clean, and responsive personal website built with pure HTML an
 ## Features
 
 - 📱 Fully responsive design
-- 🎨 Minimalist and modern UI
-- 🚀 Fast loading with no dependencies (except Google Fonts)
+- 🎨 Black & white minimalist UI design
+- 🚀 Fast loading with no dependencies (except IBM Plex Sans font)
 - 📧 Direct contact links to LinkedIn and email
 - ♿ Accessible design with proper semantic HTML
 
@@ -22,12 +22,12 @@ This is a simple, clean, and responsive personal website built with pure HTML an
 
 - HTML5
 - CSS3 (with CSS Grid and Flexbox)
-- Google Fonts (Inter font family)
+- IBM Plex Sans font from Google Fonts
 
 ## Setup
 
 This website is automatically deployed via GitHub Pages. Simply push to the main branch and the site will be live at:
-`https://[username].github.io/[repository-name]`
+`https://dewaa97.github.io/dewaa97-is-a-dev`
 
 ## Local Development
 
